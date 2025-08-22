@@ -2,8 +2,6 @@
 
 Notes and tools for editing `.fit` files for Strava 
 
----
-
 ## Tools
 
 Using this SDK (FIT 21.171 SDK Release Date: May 6, 2025 used): <https://developer.garmin.com/fit/download/>
