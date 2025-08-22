@@ -2,7 +2,7 @@
 
 Attempting to remove laps from a `.fit` file.
 
-Using this tool: <https://developer.garmin.com/fit/overview/>
+Using this SDK (FIT 21.171 SDK Release Date: May 6, 2025 used): <https://developer.garmin.com/fit/download/>
 
 Helpful to check output: <https://gotoes.org/strava/fitfileviewer.php>
 
